@@ -34,7 +34,11 @@ h1 {
 }
 
 .footer-bottom {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+  background: linear-gradient(90deg, #d89b2b, #c4811f);
+  text-align: center;
+  padding: 12px;
+  font-size: 14px;
+  color: #111;
+  letter-spacing: 0.5px;
+    bottom: 0;
 }
